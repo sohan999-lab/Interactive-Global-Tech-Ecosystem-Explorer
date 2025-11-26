@@ -1,0 +1,161 @@
+City,Region,Sector,Ecosystem_Score,Number_of_Startups,Total_Funding_M_USD,Avg_Funding_Per_Startup_M,YoY_Growth_Rate,Talent_Pool_Score,Market_Reach_Score,Funding_Accessibility_Score
+San Francisco,North America,Fintech,88,4272,12284,2.88,0.097,78,72,65
+San Francisco,North America,AI/ML,70,3944,45131,11.44,0.093,62,71,56
+San Francisco,North America,SaaS,83,2933,6311,2.15,0.348,92,61,76
+San Francisco,North America,E-commerce,84,974,26658,27.37,0.17,87,65,69
+San Francisco,North America,HealthTech,62,4056,4890,1.21,0.254,68,88,72
+San Francisco,North America,CleanTech,63,1100,44323,40.29,0.219,68,75,56
+San Francisco,North America,EdTech,79,1978,49555,25.05,0.199,94,63,71
+San Francisco,North America,Blockchain,63,3573,2021,0.57,0.206,63,78,72
+New York,North America,Fintech,85,1679,1161,0.69,0.169,75,63,65
+New York,North America,AI/ML,74,555,41397,74.59,0.109,79,70,50
+New York,North America,SaaS,77,978,10268,10.5,0.226,64,94,63
+New York,North America,E-commerce,74,1936,49984,25.82,0.346,63,50,42
+New York,North America,HealthTech,83,1186,6258,5.28,0.11,47,84,69
+New York,North America,CleanTech,92,478,39660,82.97,0.328,67,56,43
+New York,North America,EdTech,67,879,49033,55.78,0.079,62,73,71
+New York,North America,Blockchain,94,783,11965,15.28,0.316,40,84,71
+London,Europe,Fintech,73,3190,4040,1.27,0.267,73,88,81
+London,Europe,AI/ML,68,706,5334,7.56,0.083,72,81,93
+London,Europe,SaaS,91,2257,7774,3.44,0.231,74,92,83
+London,Europe,E-commerce,72,2222,11706,5.27,0.098,61,91,60
+London,Europe,HealthTech,87,4127,9755,2.36,0.318,70,77,79
+London,Europe,CleanTech,92,1806,12421,6.88,0.05,72,90,57
+London,Europe,EdTech,65,4913,3948,0.8,0.258,83,64,86
+London,Europe,Blockchain,91,1995,3504,1.76,0.171,71,88,56
+Beijing,Asia,Fintech,62,2136,3896,1.82,0.349,41,51,62
+Beijing,Asia,AI/ML,82,3974,14149,3.56,0.093,65,81,40
+Beijing,Asia,SaaS,91,4010,402,0.1,0.161,56,87,58
+Beijing,Asia,E-commerce,64,3431,7977,2.32,0.24,50,65,67
+Beijing,Asia,HealthTech,68,1647,4482,2.72,0.106,68,52,54
+Beijing,Asia,CleanTech,78,1869,2186,1.17,0.293,59,81,41
+Beijing,Asia,EdTech,92,2459,5959,2.42,0.205,79,50,45
+Beijing,Asia,Blockchain,87,4561,11761,2.58,0.127,55,75,36
+Shanghai,Asia,Fintech,40,1427,14789,10.36,0.319,76,81,43
+Shanghai,Asia,AI/ML,74,1782,2455,1.38,0.319,63,82,58
+Shanghai,Asia,SaaS,50,1748,5739,3.28,0.32,59,84,59
+Shanghai,Asia,E-commerce,74,252,14372,57.03,0.135,57,51,69
+Shanghai,Asia,HealthTech,55,1056,14192,13.44,0.103,43,82,48
+Shanghai,Asia,CleanTech,60,915,4187,4.58,0.16,47,56,37
+Shanghai,Asia,EdTech,56,739,11496,15.56,0.213,61,71,64
+Shanghai,Asia,Blockchain,47,1406,14562,10.36,0.288,69,82,62
+Bangalore,Asia,Fintech,72,552,11459,20.76,0.267,58,53,69
+Bangalore,Asia,AI/ML,56,1295,9635,7.44,0.191,45,84,71
+Bangalore,Asia,SaaS,63,1472,501,0.34,0.34,74,82,55
+Bangalore,Asia,E-commerce,71,1284,3527,2.75,0.196,57,74,65
+Bangalore,Asia,HealthTech,42,1995,2933,1.47,0.079,71,71,57
+Bangalore,Asia,CleanTech,41,1762,354,0.2,0.139,65,66,74
+Bangalore,Asia,EdTech,72,1516,12733,8.4,0.158,68,91,60
+Bangalore,Asia,Blockchain,74,1941,13408,6.91,0.233,46,85,54
+Singapore,Asia,Fintech,40,1899,6855,3.61,0.169,53,61,77
+Singapore,Asia,AI/ML,54,1215,13321,10.96,0.182,61,74,76
+Singapore,Asia,SaaS,61,404,10107,25.02,0.062,54,92,91
+Singapore,Asia,E-commerce,72,363,3324,9.16,0.131,44,88,58
+Singapore,Asia,HealthTech,45,976,9383,9.61,0.209,74,89,70
+Singapore,Asia,CleanTech,52,469,835,1.78,0.264,58,66,73
+Singapore,Asia,EdTech,67,1181,14462,12.25,0.125,65,72,63
+Singapore,Asia,Blockchain,51,1112,1864,1.68,0.102,40,83,86
+Berlin,Europe,Fintech,64,587,7604,12.95,0.134,55,88,39
+Berlin,Europe,AI/ML,61,960,10686,11.13,0.064,65,65,71
+Berlin,Europe,SaaS,61,796,11748,14.76,0.085,44,79,39
+Berlin,Europe,E-commerce,51,1011,10657,10.54,0.279,60,88,70
+Berlin,Europe,HealthTech,72,1377,10149,7.37,0.245,49,54,70
+Berlin,Europe,CleanTech,73,1303,7590,5.83,0.055,58,81,35
+Berlin,Europe,EdTech,44,615,11479,18.67,0.071,41,77,66
+Berlin,Europe,Blockchain,66,951,1887,1.98,0.253,74,82,67
+Tel Aviv,Middle East,Fintech,51,1958,5736,2.93,0.245,68,62,46
+Tel Aviv,Middle East,AI/ML,70,1425,12361,8.67,0.062,74,72,51
+Tel Aviv,Middle East,SaaS,65,875,6948,7.94,0.303,65,83,41
+Tel Aviv,Middle East,E-commerce,43,925,7868,8.51,0.155,50,78,70
+Tel Aviv,Middle East,HealthTech,64,1400,7364,5.26,0.135,49,86,43
+Tel Aviv,Middle East,CleanTech,63,291,2986,10.26,0.347,75,67,73
+Tel Aviv,Middle East,EdTech,71,1787,7006,3.92,0.329,76,61,47
+Tel Aviv,Middle East,Blockchain,62,316,3114,9.85,0.081,56,69,59
+Boston,North America,Fintech,61,496,898,1.81,0.08,95,61,53
+Boston,North America,AI/ML,51,364,2702,7.42,0.337,90,68,50
+Boston,North America,SaaS,44,1222,4691,3.84,0.149,80,85,57
+Boston,North America,E-commerce,55,668,1262,1.89,0.077,98,63,65
+Boston,North America,HealthTech,44,1286,5534,4.3,0.214,70,67,46
+Boston,North America,CleanTech,48,1197,1153,0.96,0.235,97,56,47
+Boston,North America,EdTech,48,1045,7138,6.83,0.262,64,78,71
+Boston,North America,Blockchain,58,1771,14007,7.91,0.309,81,66,41
+Los Angeles,North America,Fintech,64,1424,9547,6.7,0.155,70,68,73
+Los Angeles,North America,AI/ML,66,813,6177,7.6,0.149,42,94,47
+Los Angeles,North America,SaaS,67,1761,9473,5.38,0.272,47,90,73
+Los Angeles,North America,E-commerce,40,486,10388,21.37,0.121,64,82,72
+Los Angeles,North America,HealthTech,45,157,3827,24.38,0.343,60,65,55
+Los Angeles,North America,CleanTech,50,863,5548,6.43,0.126,58,69,52
+Los Angeles,North America,EdTech,53,1266,3686,2.91,0.349,42,65,57
+Los Angeles,North America,Blockchain,50,1135,1553,1.37,0.335,47,87,46
+Paris,Europe,Fintech,63,767,4668,6.09,0.133,67,85,60
+Paris,Europe,AI/ML,47,797,7683,9.64,0.225,67,86,70
+Paris,Europe,SaaS,66,601,7302,12.15,0.211,72,69,47
+Paris,Europe,E-commerce,67,851,1124,1.32,0.09,74,55,52
+Paris,Europe,HealthTech,44,1938,10336,5.33,0.175,69,94,39
+Paris,Europe,CleanTech,72,473,11528,24.37,0.194,50,70,60
+Paris,Europe,EdTech,64,1977,7170,3.63,0.303,52,82,68
+Paris,Europe,Blockchain,74,610,584,0.96,0.054,45,77,51
+Tokyo,Asia,Fintech,44,1986,10060,5.07,0.349,62,86,71
+Tokyo,Asia,AI/ML,49,1581,4378,2.77,0.124,53,58,35
+Tokyo,Asia,SaaS,52,1895,5765,3.04,0.313,79,81,68
+Tokyo,Asia,E-commerce,67,194,7439,38.35,0.057,73,52,46
+Tokyo,Asia,HealthTech,40,1177,8627,7.33,0.218,69,66,57
+Tokyo,Asia,CleanTech,54,1352,7196,5.32,0.242,50,88,72
+Tokyo,Asia,EdTech,73,905,9721,10.74,0.227,69,64,61
+Tokyo,Asia,Blockchain,73,1431,12736,8.9,0.204,63,64,64
+Seoul,Asia,Fintech,56,232,5092,21.95,0.094,56,59,51
+Seoul,Asia,AI/ML,59,1083,4364,4.03,0.344,41,62,45
+Seoul,Asia,SaaS,62,1306,6438,4.93,0.17,55,57,38
+Seoul,Asia,E-commerce,43,1819,8672,4.77,0.319,42,76,63
+Seoul,Asia,HealthTech,71,160,6977,43.61,0.117,60,54,52
+Seoul,Asia,CleanTech,67,781,4100,5.25,0.06,45,50,39
+Seoul,Asia,EdTech,51,445,11509,25.86,0.159,53,75,61
+Seoul,Asia,Blockchain,48,893,10688,11.97,0.194,61,79,51
+Stockholm,Europe,Fintech,65,903,13768,15.25,0.075,74,64,56
+Stockholm,Europe,AI/ML,53,573,12515,21.84,0.161,63,51,60
+Stockholm,Europe,SaaS,53,798,13823,17.32,0.09,42,72,52
+Stockholm,Europe,E-commerce,74,1138,13703,12.04,0.131,76,77,44
+Stockholm,Europe,HealthTech,56,1354,6429,4.75,0.148,64,66,47
+Stockholm,Europe,CleanTech,59,124,9995,80.6,0.157,57,85,56
+Stockholm,Europe,EdTech,73,722,8143,11.28,0.226,58,91,71
+Stockholm,Europe,Blockchain,45,791,5601,7.08,0.232,45,86,67
+Austin,North America,Fintech,61,376,1933,5.14,0.16,43,79,45
+Austin,North America,AI/ML,69,1730,3935,2.27,0.319,42,80,74
+Austin,North America,SaaS,63,1346,205,0.15,0.169,67,60,38
+Austin,North America,E-commerce,54,745,317,0.43,0.127,77,51,49
+Austin,North America,HealthTech,50,1515,13946,9.21,0.302,44,55,60
+Austin,North America,CleanTech,43,1910,9115,4.77,0.202,51,50,60
+Austin,North America,EdTech,53,419,9965,23.78,0.224,50,85,47
+Austin,North America,Blockchain,42,1796,9293,5.17,0.151,49,54,57
+Seattle,North America,Fintech,49,271,7241,26.72,0.147,41,69,35
+Seattle,North America,AI/ML,48,884,3024,3.42,0.229,63,87,69
+Seattle,North America,SaaS,69,1218,8184,6.72,0.305,53,60,43
+Seattle,North America,E-commerce,73,687,8362,12.17,0.07,79,71,63
+Seattle,North America,HealthTech,47,1902,9264,4.87,0.275,69,84,55
+Seattle,North America,CleanTech,44,950,7746,8.15,0.24,43,74,59
+Seattle,North America,EdTech,57,395,10255,25.96,0.182,53,81,72
+Seattle,North America,Blockchain,72,1146,4870,4.25,0.201,64,66,67
+Toronto,North America,Fintech,41,920,3887,4.22,0.119,78,55,40
+Toronto,North America,AI/ML,42,490,1402,2.86,0.15,54,78,67
+Toronto,North America,SaaS,69,1354,1122,0.83,0.287,77,82,71
+Toronto,North America,E-commerce,66,1050,2536,2.42,0.06,61,51,44
+Toronto,North America,HealthTech,44,1758,2065,1.17,0.153,77,62,65
+Toronto,North America,CleanTech,63,1047,8063,7.7,0.201,47,54,63
+Toronto,North America,EdTech,43,943,3956,4.2,0.266,70,85,70
+Toronto,North America,Blockchain,65,1934,2316,1.2,0.298,49,89,72
+Amsterdam,Europe,Fintech,45,811,6366,7.85,0.189,51,75,47
+Amsterdam,Europe,AI/ML,57,1084,7990,7.37,0.268,51,93,70
+Amsterdam,Europe,SaaS,43,1256,11327,9.02,0.057,67,80,43
+Amsterdam,Europe,E-commerce,68,1585,11759,7.42,0.302,50,72,35
+Amsterdam,Europe,HealthTech,60,1469,1845,1.26,0.106,62,50,74
+Amsterdam,Europe,CleanTech,54,760,11894,15.65,0.066,48,59,60
+Amsterdam,Europe,EdTech,74,674,14779,21.93,0.211,50,87,36
+Amsterdam,Europe,Blockchain,46,1333,8866,6.65,0.271,56,92,58
+Dublin,Europe,Fintech,64,1303,13197,10.13,0.06,72,78,56
+Dublin,Europe,AI/ML,65,255,5788,22.7,0.205,56,69,54
+Dublin,Europe,SaaS,61,575,5382,9.36,0.349,46,50,66
+Dublin,Europe,E-commerce,52,1089,10654,9.78,0.178,58,81,64
+Dublin,Europe,HealthTech,68,1428,4724,3.31,0.163,55,89,53
+Dublin,Europe,CleanTech,57,868,5690,6.56,0.186,41,77,64
+Dublin,Europe,EdTech,43,1387,12542,9.04,0.334,71,59,44
+Dublin,Europe,Blockchain,58,261,3651,13.99,0.29,67,81,41
