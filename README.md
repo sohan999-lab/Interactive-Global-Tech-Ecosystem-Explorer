@@ -148,10 +148,11 @@ global-tech-ecosystem-explorer/
 - Generate insights for academic publications
 
 ## 🔬 Academic Context
-
-**Course:** INFOSCI 301 - Information Visualization  
-**Institution:** Duke Kunshan University  
-**Semester:** Fall 2025  
+  
+**Course:** INFOSCI 301 - Data Visualization and Information Aesthetics
+**Semester:** Fall 2025
+**Instructor:** Professor Luyao Zhang, Ph.D
+**Institution:** Duke Kunshan University    
 
 **Learning Objectives Met:**
 - Open-source project development
@@ -197,9 +198,7 @@ Contributions are welcome! Please feel free to:
 
 ## 📧 Contact
 
-**Creator:** Md. Sohan Mahmud  
-**Institution:** Duke Kunshan University  
-**Course:** INFOSCI 301 - Information Visualization  
+**Creator:** Md. Sohan Mahmud   
 **Email:** mdsohan.mahmud@duke.edu  
 **GitHub:** https://github.com/sohan999-lab
 
