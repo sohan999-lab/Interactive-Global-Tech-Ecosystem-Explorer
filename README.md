@@ -81,8 +81,8 @@ global-tech-ecosystem-explorer/
 ├── app.py                              # Main Streamlit application
 ├── global_tech_ecosystem_data.csv      # Dataset (160 records)
 ├── requirements.txt                    # Python dependencies
-├── README.md                          # Project documentation
-└── screenshots/                       # (optional) UI screenshots
+├── README.md                           # Project documentation
+└── Adjustments                         # Create your file/branch for contributions
 ```
 
 ## 📊 Dataset Description
@@ -200,8 +200,8 @@ Contributions are welcome! Please feel free to:
 **Creator:** Md. Sohan Mahmud  
 **Institution:** Duke Kunshan University  
 **Course:** INFOSCI 301 - Information Visualization  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]
+**Email:** mdsohan.mahmud@duke.edu  
+**GitHub:** https://github.com/sohan999-lab
 
 ## 📄 License
 
